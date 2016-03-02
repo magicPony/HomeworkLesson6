@@ -2,4 +2,28 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="name_field_margin_top">20dp</dimen>
+    <dimen name="name_field_padding_left">20dp</dimen>
+    <dimen name="name_field_padding_right">20dp</dimen>
+    <dimen name="field1_margin_top">20dp</dimen>
+    <dimen name="field1_padding_left">50dp</dimen>
+    <dimen name="field1_padding_right">50dp</dimen>
+    <dimen name="field1_padding_top">15dp</dimen>
+    <dimen name="field1_padding_bottom">15dp</dimen>
+    <dimen name="field2_margin_top">20dp</dimen>
+    <dimen name="field2_padding_left">50dp</dimen>
+    <dimen name="field2_padding_right">50dp</dimen>
+    <dimen name="field2_padding_top">15dp</dimen>
+    <dimen name="field2_padding_bottom">15dp</dimen>
+    <dimen name="field3_margin_top">20dp</dimen>
+    <dimen name="field3_padding_left">50dp</dimen>
+    <dimen name="field3_padding_right">50dp</dimen>
+    <dimen name="field3_padding_top">15dp</dimen>
+    <dimen name="field3_padding_bottom">15dp</dimen>
+    <dimen name="message_padding">10dp</dimen>
+    <dimen name="message_margin_top">20dp</dimen>
+    <dimen name="layer_list_padding">10dp</dimen>
+    <dimen name="layer_list_margin_top">20dp</dimen>
+    <dimen name="layer_list_width">150dp</dimen>
+    <dimen name="layer_list_height">150dp</dimen>
 </resources>

@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
 
     <RelativeLayout
+        android:background="@drawable/wallpaper"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content">
 
         <Button
             android:background="@drawable/name_field_background"
@@ -75,13 +79,13 @@
             android:background="@drawable/layer_list"
             android:padding="@dimen/layer_list_padding"
             android:layout_marginTop="@dimen/layer_list_margin_top"
+            android:layout_marginBottom="@dimen/layer_list_margin_bottom"
             android:layout_below="@id/text_long_story"
             android:layout_width="@dimen/layer_list_width"
             android:layout_height="@dimen/layer_list_height"
             android:layout_centerHorizontal="true" />
 
     </RelativeLayout>
-
 
 </ScrollView>
 
